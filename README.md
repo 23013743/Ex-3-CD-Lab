@@ -2,6 +2,7 @@
 
 # NAME: NIRMAL N
 # REG NO: 212223240107
+# DATE 01-05-2025
 
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
